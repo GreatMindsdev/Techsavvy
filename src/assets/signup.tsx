@@ -10,7 +10,7 @@ function Signup() {
 		
         <center><h1>Register</h1></center>
         <br></br>
-        <form className="gg" method="post" action="http://localhost/learner/data_check.php">
+        <form className="gg" method="post" action="http://greatminds.42web.io/learner/data_check.php">
           <div className="input-g">
             <i className="fas fa-user"></i>
             <label className="label_deg"></label>
