@@ -87,7 +87,7 @@ function Signup() {
           </div>
 		  <div> 
 <p>Have account?</p>
-<button id="signUpButton" className="links"><a href="/signin">SignIn</a></button>
+<button id="signUpButton" className="links"><a href="/SignIn">SignIn</a></button>
 </div>
         </form>
      
