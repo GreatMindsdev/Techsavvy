@@ -10,7 +10,7 @@ function Form() {
 
     try {
       const response = await fetch(
-        "https://localhost/learner/db-connect1.php",
+        "https://greatminds.42web.io/db-connect1.php",
         {
           method: "POST",
           headers: {
