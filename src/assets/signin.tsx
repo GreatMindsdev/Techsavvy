@@ -1,7 +1,7 @@
 function SignIn(){
     return(
      <center>
-        <form method="POST" action="https://greatminds.42web.io/db-connect1.php" >
+        <form method="POST" action="https://greatminds.42web.io/db-connect.php" >
         <h1>Login</h1>
         <div >
 					<label className="label_deg">USERNAME</label>
